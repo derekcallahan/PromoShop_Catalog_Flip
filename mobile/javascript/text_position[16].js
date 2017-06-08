@@ -1,0 +1,1 @@
+﻿positionForPages[16]={page:16,positions:[{word:"Recruiting",left:0.358545,top:0.024486,width:0.183799,height:0.030216},{word:"16",left:0.056800,top:0.965310,width:0.026498,height:0.019559}]};

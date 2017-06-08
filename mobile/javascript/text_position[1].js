@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"®",left:0.629774,top:0.678461,width:0.003490,height:0.006773},{word:"Guidebook",left:0.279154,top:0.753805,width:0.422806,height:0.061004}]};
